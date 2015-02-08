@@ -1,0 +1,9 @@
+C:\Users\tm\documents\visual studio 2013\Projects\MKVFixer\MKVFixer\bin\Release\MKVFixer.exe.config
+C:\Users\tm\documents\visual studio 2013\Projects\MKVFixer\MKVFixer\bin\Release\MKVFixer.exe
+C:\Users\tm\documents\visual studio 2013\Projects\MKVFixer\MKVFixer\bin\Release\MKVFixer.pdb
+C:\Users\tm\documents\visual studio 2013\Projects\MKVFixer\MKVFixer\obj\Release\MKVFixer.csprojResolveAssemblyReference.cache
+C:\Users\tm\documents\visual studio 2013\Projects\MKVFixer\MKVFixer\obj\Release\MKVFixer.Form1.resources
+C:\Users\tm\documents\visual studio 2013\Projects\MKVFixer\MKVFixer\obj\Release\MKVFixer.Properties.Resources.resources
+C:\Users\tm\documents\visual studio 2013\Projects\MKVFixer\MKVFixer\obj\Release\MKVFixer.csproj.GenerateResource.Cache
+C:\Users\tm\documents\visual studio 2013\Projects\MKVFixer\MKVFixer\obj\Release\MKVFixer.exe
+C:\Users\tm\documents\visual studio 2013\Projects\MKVFixer\MKVFixer\obj\Release\MKVFixer.pdb
